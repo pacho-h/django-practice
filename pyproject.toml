@@ -13,6 +13,7 @@ Django = "^5.0.3"
 ruff = "^0.3.2"
 pytest = "^8.1.1"
 pytest-watcher = "^0.4.1"
+pynvim = "^0.5.0"
 
 [build-system]
 requires = ["poetry-core"]
