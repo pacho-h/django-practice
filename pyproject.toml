@@ -26,10 +26,4 @@ line-length = 120
 target-version = "py312"
 
 [tool.ruff.lint]
-select = ["ALL"]
-ignore = [
-    "ANN",  # flake8-annotations
-    "D",  # pydocstyle
-    "EM",  # flake8-errmsg
-    "TRY003",  # tryceratops
-]
+# default
